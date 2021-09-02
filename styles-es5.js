@@ -590,15 +590,15 @@
   /***/
   function _(module, exports, __webpack_require__) {
     __webpack_require__(
-    /*! D:\UNI Work\Angular Work\myWebsite\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */
+    /*! D:\Studies\UNI Work\Angular Work\myWebsite\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */
     "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
 
     __webpack_require__(
-    /*! D:\UNI Work\Angular Work\myWebsite\node_modules\@fortawesome\fontawesome-free\css\all.min.css */
+    /*! D:\Studies\UNI Work\Angular Work\myWebsite\node_modules\@fortawesome\fontawesome-free\css\all.min.css */
     "./node_modules/@fortawesome/fontawesome-free/css/all.min.css");
 
     module.exports = __webpack_require__(
-    /*! D:\UNI Work\Angular Work\myWebsite\src\styles.css */
+    /*! D:\Studies\UNI Work\Angular Work\myWebsite\src\styles.css */
     "./src/styles.css");
     /***/
   }
